@@ -1,4 +1,4 @@
----
+tecno
 manufacturer:
     - tecno
 
